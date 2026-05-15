@@ -1,3 +1,5 @@
+# Biggest (H1)Note -- go to the about section to get the apk to test the application
+
 # Hasta-Kala Shop
 
 An Android app built for small handcraft business owners in India — specifically for people who are still running their shop on paper registers and a calculator and would like to stop doing that.
