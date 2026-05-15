@@ -1,4 +1,4 @@
-# Biggest (H1)Note -- go to the about section to get the apk to test the application
+# Note -- go to the about section to get the apk to test the application
 
 # Hasta-Kala Shop
 
